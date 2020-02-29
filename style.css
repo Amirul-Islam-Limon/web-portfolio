@@ -8,13 +8,16 @@ h1{
     color: orange;
 }
 .half-side1{
-    width: 40%;
+    width: 35%;
     float: left;
-    margin-left: 5%;
-    
-   
+    margin-left: 5%;     
 }
 .half-side1 image{
-
-    
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+}
+section{
+    height: 500px;
 }
