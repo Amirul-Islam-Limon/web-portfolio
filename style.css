@@ -40,6 +40,7 @@ section{
     width: 40%;
     margin-left:5%;
     margin-top: 5%;
+    
 }
 .dream{
     background-image:url(images/dream-bg.png);
@@ -59,6 +60,9 @@ section{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
+    
+
 }
 #full-stuck{
     border-left: 7px solid;
@@ -74,3 +78,4 @@ footer p{
     text-align: center;
     font-size: 16px;
 }
+
